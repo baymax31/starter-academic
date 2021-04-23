@@ -21,6 +21,9 @@ interests:
 - Energy 
 - Cryptocurrency
 - Trading strategy
+- Volatility spillover
+- Dynamic causality analysis
+- Bayesian Econometrics
 
 # Education to show in About widget
 education:
