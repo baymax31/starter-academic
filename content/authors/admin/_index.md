@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kai Liu
+title: Kai Liu  'liukai31@outlook.com'
 
 # Is this the primary user of the site?
 superuser: true
