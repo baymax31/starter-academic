@@ -36,7 +36,7 @@ item:
 -  date_start: "2019-03-01"
   description: "Honorable Mention"
   organization: COMAP
-  organization_url: https://www.comap.com/
+  organization_url: "https://www.comap.com/"
   title: COMAP's Mathematical Contest in Modeling
   url: ""
 #- certificate_url: http://www.tiaozhanbei.net/
@@ -44,7 +44,7 @@ item:
 -  date_start: "2019-5-21"
   description: "First Prize in Jiangsu Provice"
   organization: Ministry of Education in China
-  organization_url: http://en.moe.gov.cn/
+  organization_url: "http://en.moe.gov.cn/"
   title: “Challenge Cup” National Undergraduate curricular academic scicence and technology works by race
   url: ""
 
