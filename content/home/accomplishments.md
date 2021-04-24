@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.comap.com/undergraduate/contests/
   date_end: ""
   date_start: "2019-03-01"
-  description: Honorable Mention
+  description: "Honorable Mention"
   organization: COMAP
   organization_url: https://www.comap.com/
   title: COMAP's Mathematical Contest in Modeling
@@ -45,7 +45,7 @@ item:
   description: "First Prize in Jiangsu Provice"
   organization: Ministry of Education in China
   organization_url: http://en.moe.gov.cn/
-  title: 'Object-Oriented Programming in R'
+  title: “Challenge Cup” National Undergraduate curricular academic scicence and technology works by race
   url: ""
 
 design:
